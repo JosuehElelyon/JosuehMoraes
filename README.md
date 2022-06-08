@@ -53,22 +53,8 @@
   <div>
  ## 📫 How to reach me?
 
- <a href="https://www.linkedin.com/in/josueh-elelyon-5107ab13a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	  </div>
+	 <a href="https://www.linkedin.com/in/josueh-elelyon-5107ab13a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 	
-<details>
-  <br />
-   <summary><b>🖥️ DevSetup</b></summary>
-  	<ul>
-  	  <li><b>OS:</b> macOS Monterey 12.1</li>
-	  <li><b>Laptop: </b> MacBook Pro (15-inch, 2019)</li>
-  	  <li><b>CPU: </b> 2,3 GHz Intel Core i9 8-Core</li>
-	    <li><b>GPU: </b> Intel UHD Graphics 630 1536 MB</li>
-	    <li><b>RAM:</b> 16 GB 2400 MHz DDR4</li>
-      <li><b>To Stay Updated:</b> Linkedin, Youtube and Medium.</li>
-	</ul>	
-</details>
 
 
-![Snake animation](https://github.com/JosuehElelyon/JosuehElelyon/blob/output/github-contribution-grid-snake.svg)
-   
