@@ -50,11 +50,8 @@
 
   <div align="leaft">
 
-  <div>
- ## 📫 How to reach me?
-
-	 <a href="https://www.linkedin.com/in/josueh-elelyon-5107ab13a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+ <a href="https://www.linkedin.com/in/josueh-elelyon-5107ab13a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	  </div>
 	
 
 
