@@ -50,12 +50,11 @@
 
   <div align="leaft">
 
-  
+  <div>
  ## 📫 How to reach me?
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohmachado/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gustavoaxe/)
+ <a href="https://www.linkedin.com/in/josueh-elelyon-5107ab13a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	  </div>
 	
 <details>
   <br />
